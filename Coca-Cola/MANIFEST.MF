@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Fernando hdz.Floreshttps://www.instagram.com/dev_fer.flores/?hl=es-la
+Main-Class: Bienvenida
+X-COMMENT: Software de uso Educativo
